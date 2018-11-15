@@ -33,3 +33,6 @@ M.S. in Computer and Information Sciences, Data Analyst
 - Web stacks &ndash; LAMP, LEMP
 - Monitoring/Stats &ndash; MRTG, Cacti, Munin, Icinga, Grafana, Telegraf
 - Cloud &ndash; OpenNebula
+- Messaging & Telephony &ndash; Asterisk, Cisco SIP Phones, eJabberd, Rocket.Chat, Twitter API, Telegram API, Firebase Cloud Messaging API
+- Hosting Panels &ndash; cPanel (L3 support), vestaCP, ISPmanager
+- Web Scraping &ndash; LWP (perl), WWW::Mechanize/PhantomJS (perl), Splinter (python), Osmosis (nodejs), Puppeteer (nodejs)
