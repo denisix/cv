@@ -38,8 +38,8 @@ M.S. in Computer and Information Sciences, Data Analyst
 - Web Scraping &ndash; LWP (perl), WWW::Mechanize/PhantomJS (perl), Splinter (python), Osmosis (nodejs), Puppeteer (nodejs)
 
 ## Experience
-**DCXV** Coowner `Senior DevOps Engineer` *Junuary 2017 &ndash; Present*
-- Developer & Engineer at DCXV data-center
+**DCXV** Coowner `Senior Full-Stack Engineer` *Junuary 2017 &ndash; Present*
+- Software Engineer at DCXV data-center
 - Full-stack web development (react, meteor, nodejs)
 - Dockerizing services
 - Performed numerous site migrations & redevelops (from php/mysql to node.js/meteor/react)
@@ -52,13 +52,14 @@ M.S. in Computer and Information Sciences, Data Analyst
 
 **DCXV** `Linux System Administrator` *Junuary 2014 &ndash; January 2017*
 - lead linux system administrator mostly, but involved in a couple web projects as web developer (backend, php/perl/mysql)
+- data-center engineer
 - advanced networking & switching, data-center core routing, cisco, mikrotik equipment, bgp, fastnetmon
 - billing logic, automation, hardware rebooters integrations
 - level3 support engineer
 - servers provisioning - puppet, ansible
 - RIPE database administrator
 
-**VDSInside** `Linux System Administrator` *Junuary 2012 &ndash; January 2014*
+**VDS I.n.s.i.d.e.** `Linux System Administrator` *Junuary 2012 &ndash; January 2014*
 - lead linux system administrator
 - data-center engineer & support staff
 - networking / switching / mikrotik equipment
