@@ -12,7 +12,7 @@
 **Kharkiv National University of Radioelectronics, Kharkiv, Ukraine**  
 M.S. in Computer and Information Sciences, Data Analyst
 *Major in Data Mining*
-*July 2009*  
+*July 2009*
 
 ## Skills
 - Architectural Pattern &ndash; Server Side Rendering, Finite State Machine
@@ -36,3 +36,69 @@ M.S. in Computer and Information Sciences, Data Analyst
 - Messaging & Telephony &ndash; Asterisk, Cisco SIP Phones, eJabberd, Rocket.Chat, Twitter API, Telegram API, Firebase Cloud Messaging API
 - Hosting Panels &ndash; cPanel (L3 support), vestaCP, ISPmanager
 - Web Scraping &ndash; LWP (perl), WWW::Mechanize/PhantomJS (perl), Splinter (python), Osmosis (nodejs), Puppeteer (nodejs)
+
+## Experience
+**DCXV** Coowner `Senior DevOps Engineer` *Junuary 2017 &ndash; Present*
+- Developer & Engineer at DCXV data-center
+- Full-stack web development (react, meteor, nodejs)
+- Dockerizing services
+- Performed numerous site migrations & redevelops (from php/mysql to node.js/meteor/react)
+- level3 support engineer
+- servers provisioning - puppet, ansible
+- brand server initial provisioning with bare metal MAAS cloud (configuration & support)
+- billing logic, automation, payment systems integrations
+- infrastructure stats & monitoring & notifications over FCM/telegram, api for clients
+- LIR operator & consultant, RIPE database administrator
+
+**DCXV** `Linux System Administrator` *Junuary 2014 &ndash; January 2017*
+- lead linux system administrator mostly, but involved in a couple web projects as web developer (backend, php/perl/mysql)
+- advanced networking & switching, data-center core routing, cisco, mikrotik equipment, bgp, fastnetmon
+- billing logic, automation, hardware rebooters integrations
+- level3 support engineer
+- servers provisioning - puppet, ansible
+- RIPE database administrator
+
+**VDSInside** `Linux System Administrator` *Junuary 2012 &ndash; January 2014*
+- lead linux system administrator
+- data-center engineer & support staff
+- networking / switching / mikrotik equipment
+- brand servers automation via IPMI
+- servers provisioning - puppet
+- designed hardware rebooters API, integration with the billing panel
+- OpenNebula cloud configuration & support
+
+**YourServerAdmin** `Linux System Administrator` *Junuary 2009 &ndash; January 2012*
+- shift leader
+- level 3 support engineer with fast issue detecting/debugging/stracing/fixing
+- linux administration & management
+- a little bit of development (bash, perl, php, python) as handy scripts for overall self performance improvement
+- database analyst mostly in optimization area, in database migration/sync solutions
+- policy based servers provisioning - cfengine, puppet
+
+**ISP Okeanika** `Linux System Administrator` *January 2008 &ndash; January 2009*
+- lead linux system administrator
+- linux networking & advanced routing including ospf, bgp
+- network monitoring & notifications
+- billing logic automation, top-up cards integration, real-time online map development
+- little bit of development - bash, php, sql, python
+
+**ISP Profi** `Linux System Administrator` *Junuary 2007 &ndash; January 2009*
+- lead linux system administrator
+- linux networking & advanced routing including ospf, bgp
+- network monitoring & notifications
+- a little bit of development - bash, perl, php, sql
+- responsible 24/7
+
+**Kharkiv National Univerity of Radioelectronics** `Linux system administrator` *June 2006 &ndash; January 2007*
+- lab servers & thin clients - setup, configurations, management
+- network organizing, routing & switching
+- automating predefined software installation on thin clients
+- bandwidth management - iproute2, tc shaper
+
+**Kaspersky Club** `Software Test Analyst` *April 2005 &ndash; June 2006*
+- pre-test investigations & planning
+- network & fs based stress tests
+- tests automation - using perl
+- developed virus database management tool
+- developed tool to automate sampling from virus database
+- periodic reports
