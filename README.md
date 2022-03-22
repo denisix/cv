@@ -6,7 +6,7 @@
 - Full stack skill-set with a concentration on back-end based engineering
 - Member of startup team
 - Coowner of a hosting company & data-center
-- Published several modules on GitHub, NPM
+- Published several modules on GitHub, NPM, images on DockerHub
 
 ## Education
 **Kharkiv National University of Radioelectronics, Kharkiv, Ukraine**  
@@ -15,27 +15,25 @@ M.S. in Computer and Information Sciences, Data Analyst
 *July 2009*
 
 ## Skills
-- Architectural Pattern &ndash; Server Side Rendering, Finite State Machine
+- Architectural Pattern &ndash; Server Side Rendering (SSR), Finite State Machine
 - Methodology &ndash; Agile, Scrum, Cross-platform Development, Object-Oriented Programming, Composition, Rapid Application Development
-- Programming Languages &ndash; JavaScript (nodejs & client side), Perl, PHP, Bash/SH, C/C++, Python, Go
-- Query Languages/Data Bases &ndash; SQL (MySQL/MariaDB), MongoDB, Redis, InfluxDB, Memcached, SHM
-- UI &ndash; Twitter Bootstrap 4, HTML, CSS
+- Programming Languages &ndash; JavaScript (nodejs & client side), sometimes - Perl, PHP, Bash/SH, C/C++, Python, Go, Rust
+- Query Languages/Data Bases &ndash; SQL (MySQL/MariaDB), MongoDB, Redis, InfluxDB, Memcached
+- UI &ndash; spectre.css, bootstrap, html, css
 - Data Mining &ndash; Optics, Apriori
 - Networking &ndash; cisco, mikrotik, linux iproute2 / policy based routing, advanced network routing, bgp, advanced tunneling, ipsec
 - Virtualization &ndash; virsh, libvirt + api, qemu
-- Containerization &ndash; docker, openvz
+- Containerization &ndash; docker, openvz, lxc
 
 ## Tools & Other skills
-- Frameworks &ndash; Meteor
-- Libs &ndash; ReactJS, Express, jQuery, AJAX/XHR
-- Content Management System &ndash; ProcessWire, WordPress
-- Provisioning/Configuration/Deployment &ndash; Puppet, Ansible, Docker Compose
-- Web stacks &ndash; LAMP, LEMP
+- Frameworks/Libs &ndash; meteor, react, react-native, express, jquery, ajax/xhr
+- Provisioning/Configuration/Deployment &ndash; puppet, ansible, docker-compose, kubectl
 - Monitoring/Stats &ndash; MRTG, Cacti, Munin, Icinga, Grafana, Telegraf
 - Cloud &ndash; OpenNebula
 - Messaging & Telephony &ndash; Asterisk, Cisco SIP Phones, eJabberd, Rocket.Chat, Twitter API, Telegram API, Firebase Cloud Messaging API
 - Hosting Panels &ndash; cPanel (L3 support), vestaCP, ISPmanager
 - Web Scraping &ndash; LWP (perl), WWW::Mechanize/PhantomJS (perl), Splinter (python), Osmosis (nodejs), Puppeteer (nodejs)
+- Web 3.0 basics, smart contracts using ethereum Solidity, Remix IDE
 
 ## Experience
 **DCXV** Coowner `Senior Full-Stack Engineer` *Junuary 2017 &ndash; Present*
